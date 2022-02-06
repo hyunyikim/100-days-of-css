@@ -7,7 +7,7 @@ https://100dayscss.com/
 yarn node-sass day3/day3.scss day3/day3.css -w
 ```
 
-##css
+## css
 ### clip-path
 ```css
 // 클리핑 범위 지정
